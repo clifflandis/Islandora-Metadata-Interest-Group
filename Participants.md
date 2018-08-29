@@ -30,3 +30,4 @@
 * Mark Lopez (Florida State University)
 * Paige Morfitt (Whitman College)
 * Susan J. Vossberg (Northwestern Health Sciences University/PALS)
+* Cliff Landis (Atlanta University Center Robert W. Woodruff Library)
